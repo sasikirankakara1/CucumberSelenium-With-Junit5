@@ -15,5 +15,6 @@ public class Demo {
 	@Test
 	public void one() {
 		System.out.println("hellos");
+		System.out.println("Worlds");
 	}
 }
